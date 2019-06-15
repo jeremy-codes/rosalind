@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: rosalindutils
+Version: 1.0.0
+Summary: Common Bioinformatics utilities for Rosalind challenges
+Home-page: https://github.com/jeremy-codes/rosalind
+Author: Jeremy Adams
+Author-email: jeremybr.adams@gmail.com
+License: UNKNOWN
+Description: # rosalindutils
+        common Bioinformatics utilities to help with Rosalind challenges
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

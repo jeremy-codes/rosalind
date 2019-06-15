@@ -1,0 +1,12 @@
+setup.py
+rosalindutils/__init__.py
+rosalindutils/constants.py
+rosalindutils/dna_functions.py
+rosalindutils/fasta_parser.py
+rosalindutils/fastq_parser.py
+rosalindutils/fastq_read.py
+rosalindutils/functions.py
+rosalindutils.egg-info/PKG-INFO
+rosalindutils.egg-info/SOURCES.txt
+rosalindutils.egg-info/dependency_links.txt
+rosalindutils.egg-info/top_level.txt
